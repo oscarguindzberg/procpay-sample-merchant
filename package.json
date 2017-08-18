@@ -1,0 +1,19 @@
+{
+  "name": "procpay-sample-merchant",
+  "private": true,
+  "version": "1.0.0",
+  "description": "procpay-sample-merchant",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "latest",
+    "body-parser": "latest",
+    "request": "latest"
+  },
+  "devDependencies": {
+    "simpleunit": "0.0.7"
+  }
+}
